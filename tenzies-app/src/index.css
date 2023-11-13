@@ -1,0 +1,17 @@
+body {
+  padding: 30px 20px;
+  background: #0b2434;
+  text-align: center;
+  margin: auto;
+}
+
+main {
+  background: #f5f5f5;
+  border-radius: 10px;
+  padding: 33.28px 34.56px 33.92px 34.56px;
+  font-family: "Karla", sans-serif;
+}
+
+.description {
+  font-family: "Inter", sans-serif;
+}
